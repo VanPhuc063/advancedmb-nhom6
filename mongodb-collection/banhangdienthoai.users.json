@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "661a395bdb0ef8ce400b1354"
+  },
+  "email": "vanphuc6003@gmail.com",
+  "password": "$2b$10$Ydbg8slVaL6PorT.jjRuG.rcmAKw59eGsKbPGnJSAIymt4x907/Jy",
+  "fullname": "Phuc Pham Van",
+  "address": "15 Hoàng Văn Thụ, Phường 15",
+  "sex": "",
+  "phone": "0387375700",
+  "group": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f29ffa41c285dd373b44e"
+  },
+  "email": "thanh@gmail.com",
+  "password": "$2b$10$mjnHwzyoApzj9HVO0s8yB.4IRzOqjd0CPVf6UDepMD769k/Sn.JZ6",
+  "fullname": "Ngoc Thanh",
+  "address": "HCM",
+  "sex": "Nam",
+  "phone": "0123456789",
+  "group": "customer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f487d67b71e443153e441"
+  },
+  "email": "admin@gmail.com",
+  "password": "$2b$10$Y2xBw9K1l0D7Z0ehCu7wx.BVIIxwxBAOkBD0kUE0hU6ac3gpMmlQW",
+  "fullname": "Admin",
+  "address": "HCM",
+  "sex": "Nam",
+  "phone": "0123456789",
+  "group": "customer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f49a567b71e443153e454"
+  },
+  "email": "mmrteo2gmail.com",
+  "password": "$2b$10$q88rO0bnsUXTsGa0Z660JOjJKxBlq3A3LeBOvfcbgk86hlbe6.Ple",
+  "fullname": "teo",
+  "address": "hcm",
+  "sex": "Nam",
+  "phone": "0777930321",
+  "group": "customer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f4b6367b71e443153e487"
+  },
+  "email": "mrteo2@gmail.com",
+  "password": "$2b$10$vM6AjhehmZPVkOUx0oXiRekEhR1GJUPNNZbjoxAPHErsaS4ZrP0nK",
+  "fullname": "Thay Dep Trai",
+  "address": "HCM",
+  "sex": "Nam",
+  "phone": "123456787",
+  "group": "customer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f4b8967b71e443153e48a"
+  },
+  "email": "mrteo22@gmail.com",
+  "password": "$2b$10$QX4zInWIREPFLGW7gF.l6O3dzbEuZTcPpbZcmNUbYTj0mJA3AhPji",
+  "fullname": "Thay Phuoc",
+  "address": "HCM",
+  "sex": "Nam",
+  "phone": "12345656",
+  "group": "customer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f4d3067b71e443153e49a"
+  },
+  "email": "mrteo3@gmail.com",
+  "password": "$2b$10$t8wrLfZGZdYtKw8RnPCOzOF7nBmd3k55KKeJ2UsXYC9hAt.Ktm5ri",
+  "fullname": "QANGANH",
+  "address": "HCM",
+  "sex": "Nam",
+  "phone": "096919545",
+  "group": "customer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f4eb167b71e443153e4d8"
+  },
+  "email": "mrteo4@gmail.com",
+  "password": "$2b$10$JNGK3Yw3iTOBx/GfKoM3Heq3/x7jz2PYLH2G6KhIHDt2dF6CzIxPG",
+  "fullname": "Thay Ohuoc",
+  "address": "HCM",
+  "sex": "Nam",
+  "phone": "0123012312",
+  "group": "customer",
+  "__v": 0
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6614dc2ac86b5eaf2ca102db"
+  },
+  "name": "iPhone",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614dc59c86b5eaf2ca102dd"
+  },
+  "name": "SAMSUNG",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614dc6cc86b5eaf2ca102df"
+  },
+  "name": "OPPO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614dc7cc86b5eaf2ca102e1"
+  },
+  "name": "xiaomi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614dca7c86b5eaf2ca102e3"
+  },
+  "name": "HONOR",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6614dcbdc86b5eaf2ca102e5"
+  },
+  "name": "realme",
+  "__v": 0
+}]
